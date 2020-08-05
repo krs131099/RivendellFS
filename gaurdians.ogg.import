@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/gaurdians.ogg-d587c71a896b33ddc78f2f167755a5fe.oggstr"
+
+[deps]
+
+source_file="res://gaurdians.ogg"
+dest_files=[ "res://.import/gaurdians.ogg-d587c71a896b33ddc78f2f167755a5fe.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
